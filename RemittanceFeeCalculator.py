@@ -1,11 +1,9 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Created on Wed May 25 21:14:39 2022
-
 @author: brian
 """
-print('\nWelcome to the 2020 Remittance Fee Calculator\n\nUsing this calculator, you will be able to see\njust how much money people from specific countries\naround the world can save from remittance fee\ntransactions if a certain percentage of the country\'s\npopulation switches to the Bitcoin Lightining Network!\n')
+print('\nWelcome to the 2025 Remittance Fee Calculator\n\nUsing this calculator, you will be able to see\njust how much money people from specific countries\naround the world can save from remittance fee\ntransactions if a certain percentage of the country\'s\npopulation switches to the Bitcoin Lightining Network!\n')
 
 import csv
 
